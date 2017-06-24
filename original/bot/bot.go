@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/yuk-vg/vg-1day-2017/original/model"
+	"github.com/yuk-vg/vg-1day-2017-05-27/original/model"
 )
 
 type (

@@ -9,10 +9,10 @@ import (
 
 	"github.com/gin-gonic/gin"
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/yuk-vg/vg-1day-2017/original/bot"
-	"github.com/yuk-vg/vg-1day-2017/original/controller"
-	"github.com/yuk-vg/vg-1day-2017/original/db"
-	"github.com/yuk-vg/vg-1day-2017/original/model"
+	"github.com/yuk-vg/vg-1day-2017-05-27/original/bot"
+	"github.com/yuk-vg/vg-1day-2017-05-27/original/controller"
+	"github.com/yuk-vg/vg-1day-2017-05-27/original/db"
+	"github.com/yuk-vg/vg-1day-2017-05-27/original/model"
 )
 
 // Server はAPIサーバーが実装された構造体です

@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/yuk-vg/vg-1day-2017/original/httputil"
-	"github.com/yuk-vg/vg-1day-2017/original/model"
+	"github.com/yuk-vg/vg-1day-2017-05-27/original/httputil"
+	"github.com/yuk-vg/vg-1day-2017-05-27/original/model"
 )
 
 // Message is controller for requests to messages
