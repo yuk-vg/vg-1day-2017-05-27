@@ -7,12 +7,12 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/VG-Tech-Dojo/vg-1day-2017/original/bot"
-	"github.com/VG-Tech-Dojo/vg-1day-2017/original/controller"
-	"github.com/VG-Tech-Dojo/vg-1day-2017/original/db"
-	"github.com/VG-Tech-Dojo/vg-1day-2017/original/model"
 	"github.com/gin-gonic/gin"
 	_ "github.com/mattn/go-sqlite3"
+	"github.com/yuk-vg/vg-1day-2017/original/bot"
+	"github.com/yuk-vg/vg-1day-2017/original/controller"
+	"github.com/yuk-vg/vg-1day-2017/original/db"
+	"github.com/yuk-vg/vg-1day-2017/original/model"
 )
 
 // Server はAPIサーバーが実装された構造体です

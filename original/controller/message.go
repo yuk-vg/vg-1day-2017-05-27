@@ -5,9 +5,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/VG-Tech-Dojo/vg-1day-2017/original/httputil"
-	"github.com/VG-Tech-Dojo/vg-1day-2017/original/model"
 	"github.com/gin-gonic/gin"
+	"github.com/yuk-vg/vg-1day-2017/original/httputil"
+	"github.com/yuk-vg/vg-1day-2017/original/model"
 )
 
 // Message is controller for requests to messages
